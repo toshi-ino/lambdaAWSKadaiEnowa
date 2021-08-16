@@ -1,0 +1,4 @@
+# lambdaAWSKadaiEnowa
+
+ラズパイで取得したデータをWeb上でグラフ表示させるアプリにおける
+DynamoDBからデータを取得するlambda関数
